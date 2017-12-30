@@ -1,0 +1,21 @@
+{
+  "author": {
+    "name": "sooncool"
+  },
+  "homepage": "https://github.com/sooncool/bonbon",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "a framework of nodejs server, thin pomelo",
+  "keywords": [
+    "pomelo",
+    "server",
+    "nodejs"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "bonbon",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
