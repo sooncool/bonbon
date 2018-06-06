@@ -5,7 +5,7 @@
   "homepage": "https://github.com/sooncool/bonbon",
   "bundleDependencies": false,
   "deprecated": false,
-  "description": "a framework of nodejs server, thin pomelo",
+  "description": "a framework of nodejs server, thin pomelo,sync pomelo",
   "keywords": [
     "pomelo",
     "server",
